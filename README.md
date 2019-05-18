@@ -15,6 +15,6 @@ Testing JavaScript with HTML/CSS & Git Pushing
 * JavaScript(ES6)
 - - -
 
- ### IMAGE SCREENSHOT
+ ### SCREENSHOT
 
 ![default](https://github.com/geonhwiii/PaintBoard/blob/master/example.PNG)
