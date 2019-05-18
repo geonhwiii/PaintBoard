@@ -1,5 +1,8 @@
 # PaintBoard 
 
+### 기간
+2019.05.18 ~ 2019.05.18
+
 ### 목적
 Testing JavaScript with HTML/CSS & Git Pushing
 
@@ -9,10 +12,6 @@ Testing JavaScript with HTML/CSS & Git Pushing
 * HTML
 * CSS 
 * JavaScript(ES6)
-- - -
-
-### 소요 
-* 1 DAY
 - - -
 
  ### IMAGE SCREENSHOT
