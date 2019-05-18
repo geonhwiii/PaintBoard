@@ -2,6 +2,7 @@
 
 ### 기간
 2019.05.18 ~ 2019.05.18
+- - -
 
 ### 목적
 Testing JavaScript with HTML/CSS & Git Pushing
