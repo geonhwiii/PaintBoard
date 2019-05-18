@@ -11,10 +11,10 @@ Testing JavaScript with HTML/CSS & Git Pushing
 * JavaScript(ES6)
 - - -
 
-### 소요 기간
-* 1일
+### 소요 
+* 1 DAY
 - - -
 
- ### EXAMPLE
+ ### IMAGE SCREENSHOT
 
 ![default](https://github.com/geonhwiii/PaintBoard/blob/master/example.PNG)
